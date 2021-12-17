@@ -1,4 +1,6 @@
 flows:
+  e1715d0a-121c-4be4-9dff-52b59297c905: {ver: 1, file: ProjetPipeline.snapshot, comments: '',
+    author: anonymous, created: 1639769253016, flowName: ProjetPipeline, flowDesc: ''}
   296678de-8b75-46eb-ab0f-dcf4ea3c95ad: {ver: 1, file: Elections.snapshot, comments: '',
     author: anonymous, created: 1639762384214, flowName: Elections, flowDesc: ''}
 layoutVer: 1
